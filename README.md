@@ -1,2 +1,2 @@
-# docker-tutorial
+# docker-intro
 Starting with Docker
